@@ -1,1 +1,74 @@
-
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "The History of Taekwondo",
+      "content": "Taekwondo originated in Korea and has a history that spans over 2,000 years. It was developed as a method of unarmed combat...",
+      "image": "https://cdn.britannica.com/28/9128-050-225A45FD/Tae-match-contestants-referee-SKor-Seoul-1988-1988.jpg",
+      "original_article": "https://www.britannica.com/sports/tae-kwon-do"
+    },
+    {
+      "id": 2,
+      "title": "Basic Taekwondo Techniques",
+      "content": "Taekwondo techniques include a variety of kicks, punches, and blocks. The most common techniques include the front kick, roundhouse kick...",
+      "image": "https://i0.wp.com/tkduniversity.com/wp-content/uploads/2021/12/history2.jpg?w=1738&ssl=1",
+      "original_article": "https://tkduniversity.com/the-history-of-taekwondo/"
+    },
+    {
+      "id": 3,
+      "title": "Taekwondo Belt System",
+      "content": "The Taekwondo belt system is a way of indicating a practitioner's level of experience and skill. The colors range from white to black...",
+      "image": "https://example.com/images/belt-system.jpg",
+      "original_article": "https://web.stanford.edu/group/Taekwondo/documents/tkd_history.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Taekwondo Competitions",
+      "content": "Taekwondo competitions are held worldwide and include sparring, forms (poomsae), and breaking events. These competitions test a practitioner's skills...",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Milad_Kharchegani_at_the_2016_Summer_Olympics.jpg/300px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpg",
+      "original_article": "https://en.wikipedia.org/wiki/Taekwondo"
+    },
+    {
+      "id": 5,
+      "title": "Health Benefits of Taekwondo",
+      "content": "Practicing Taekwondo offers numerous health benefits, including improved cardiovascular health, increased flexibility, and better mental discipline...",
+      "image": "https://taekwondotimes.com/wp-content/uploads/2023/06/choi-park-and-choi.jpg",
+      "original_article": "https://taekwondotimes.com/news/2023/05/the-evolution-of-taekwondo-from-martial-art-to-olympic-sport/"
+    },
+    {
+      "id": 6,
+      "title": "Taekwondo Training for Beginners",
+      "content": "For beginners, Taekwondo training focuses on learning basic stances, kicks, and punches. Proper technique and form are emphasized...",
+      "image": "https://i.pinimg.com/736x/fd/aa/35/fdaa3561ce32e753f78d2119b33b1470.jpg",
+      "original_article": "https://taekwondotimes.com/news/2023/05/the-evolution-of-taekwondo-from-martial-art-to-olympic-sport/"
+    },
+    {
+      "id": 7,
+      "title": "Taekwondo in the Olympics",
+      "content": "Taekwondo was introduced as an Olympic sport in the 2000 Sydney Games. It features sparring matches where competitors score points for controlled kicks and punches...",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaChNyYsSPgqBW8K0H5lD3rWjgm6U29-xFlw&s",
+      "original_article": "https://www.britannica.com/sports/tae-kwon-do"
+    },
+    {
+      "id": 8,
+      "title": "Famous Taekwondo Practitioners",
+      "content": "Many famous individuals have practiced Taekwondo, including movie stars and athletes. Notable practitioners include Chuck Norris, Jean-Claude Van Damme, and Steven Lopez...",
+      "image": "https://blitzcr.com/wp-content/uploads/2023/10/the-role-of-taekwondo-in-south-korean-culture_177.png",
+      "original_article": "https://www.britannica.com/sports/tae-kwon-do"
+    },
+    {
+      "id": 9,
+      "title": "The Philosophy of Taekwondo",
+      "content": "Taekwondo is not just a physical activity but also a way of life. It emphasizes principles such as courtesy, integrity, perseverance, self-control, and indomitable spirit...",
+      "image": "https://www.e-pao.net/leisure/images/Sports/2011/taekwondo.jpg",
+      "original_article": "https://www.britannica.com/sports/tae-kwon-do"
+    },
+    {
+      "id": 10,
+      "title": "Taekwondo Self-Defense Techniques",
+      "content": "Taekwondo includes various self-defense techniques that can be used in real-life situations. These techniques focus on using an opponent's force against them...",
+      "image": "https://thumbs.dreamstime.com/z/taekwondo-karate-silhouettes-art-vector-design-66648929.jpg",
+      "original_article": "https://www.britannica.com/sports/tae-kwon-do"
+    }
+  ]
+}
